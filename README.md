@@ -5,6 +5,9 @@ aplicação em javascript onde o usuário cadastra um filme, preenche com alguma
 
 bibliotecas: axios, react, react-dom, react-icons, react-router-dom, styled-components.
 
+https://main--reactrocketmovies.netlify.app/
+
+---
 página de signin, onde é possível fazer o login:
 ![SignIn-page](https://github.com/rayaneacacio/rocket-movies/assets/104095370/93d6f16f-1b17-408c-b6f1-4e63b736a050)
 
